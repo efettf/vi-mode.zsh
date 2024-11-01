@@ -11,7 +11,7 @@
 it's not the best way to do it I'm sure. -->
 ###
 
-> [!NOTE]
+> [!IMPORTANT]
 > This repository is forked from https://github.com/jeffreytse/zsh-vi-mode,
 > and that is where you should report all issues.
 > This configuration adds a couple of tweaks.
